@@ -5,10 +5,10 @@ Mercury-Docker-Demo
 
 ##  Run
 
-Clone Mercury demo to the root of the project.
+Clone the repo
 
 
-With docker installed, you can run the following command to start the demo:
+With docker installed, you can run the following command from the root directory to start the demo:
 
 
 ```bash

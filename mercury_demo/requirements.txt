@@ -1,0 +1,4 @@
+mljar-mercury
+plotly_express
+seaborn
+gunicorn
